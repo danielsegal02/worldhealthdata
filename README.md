@@ -13,7 +13,8 @@ https://platform.who.int/mortality/themes/theme-details/topics/indicator-groups/
 ## Project Description 
 This project demonstrates different ways to visualization lower respritory infection associated death rates per country from 2016 to 2019. 
 1. Scatter Plot
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![Interactive Scatter Plot](ScatterPlotWorldHealthData.PNG)
 2. Geographic Scatter Plot
-
+![Interactive Geographic Data Plot](GeographicScatterPlotWorldHealthData.PNG)
 3. Choropleth Map
+![Interactive Choropleth Map](ChoroplethWorldHealthData.PNG)
